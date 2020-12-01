@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 60%;
   margin: auto;
   text-align: center;
 }
@@ -11,20 +11,20 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: #dd9866;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 5rem;
+  color: #ffc85c;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #ffc85c;
   font-family: 'Indie Flower', cursive;
 }
 
